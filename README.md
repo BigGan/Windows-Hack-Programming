@@ -139,3 +139,9 @@ Detailed explanation of Windows hacking programming technology, Include Windows 
     - 18.6 文件强删
 
 - 附录 函数一览表
+
+
+
+**《WINDOWS黑客编程技术详解》勘误收集及软件下载**
+
+**[https://www.write-bug.com/article/1966.html](https://www.write-bug.com/article/1966.html)**
