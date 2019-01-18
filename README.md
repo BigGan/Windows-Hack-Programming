@@ -2,6 +2,10 @@
 
 Detailed explanation of Windows hacking programming technology, Include Windows User Programming(Ring3) And Windows Kernel Rootkit Programming(Ring0)
 
+**《WINDOWS黑客编程技术详解》勘误收集及软件下载**
+
+**[https://www.write-bug.com/article/1966.html](https://www.write-bug.com/article/1966.html)**
+
 **书籍内容简介**
 
 《WINDOWS黑客编程技术详解》，作者甘迪文，2018年12月由人民邮电出版社出版，是一本面向黑客编程初学者的书，较为全面的地总结黑客编程技术。其内容重在实践，着重剖析技术实现原理，向读者讲解黑客编程技术的实现方法。
@@ -142,6 +146,4 @@ Detailed explanation of Windows hacking programming technology, Include Windows 
 
 
 
-**《WINDOWS黑客编程技术详解》勘误收集及软件下载**
 
-**[https://www.write-bug.com/article/1966.html](https://www.write-bug.com/article/1966.html)**
