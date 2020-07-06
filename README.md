@@ -10,6 +10,10 @@ Detailed explanation of Windows hacking programming technology, Include Windows 
 
 本书面向对计算机系统安全开发感兴趣，或者希望提升安全开发水平的读者，以及恶意代码分析研究方面的安全人员。
 
+**勘误收集及相关开发软件下载**
+
+https://www.write-bug.com/article/1966.html
+
 **书籍封面（正面）**
 
 ![book](https://github.com/BigGan/Windows-Hack-Programming/blob/master/book.jpg)
