@@ -12,7 +12,7 @@ Detailed explanation of Windows hacking programming technology, Include Windows 
 
 **勘误收集及相关开发软件下载**
 
-https://www.write-bug.com/article/1966.html
+https://www.writebug.com/explore/QA/CTYBTMQK
 
 **书籍封面（正面）**
 
